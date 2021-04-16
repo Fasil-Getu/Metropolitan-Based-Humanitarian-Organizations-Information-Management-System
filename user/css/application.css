@@ -1,0 +1,58 @@
+html,.main  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#6abadeba; 
+    min-height: 100%;
+    min-width: 100%; 
+    font-family: 'Arial';  
+}  
+.register{  
+        width: 80%;   
+        margin: auto;  
+        margin: 20px auto;  
+        padding: 80px;  
+        background: #23463f; 
+         overflow: hidden;  
+        border-radius: 15px ; 
+          
+}
+
+.form-group{
+    width:100%;
+    margin:auto; 
+}
+label{  
+    color: #08ffd1;  
+    font-size: 17px;  
+    font-family: gothic;
+} 
+.form-control{
+    border-radius: 10px;
+    width:30%;
+}
+
+#h2{color:white;}
+
+
+#email{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  }
+.option{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  }
+    
+    .label{
+  margin: auto;
+  background-color: white;
+  color:red;
+  text-align: center;
+  min-height: 30px;
+  min-width: 100%;
+}
